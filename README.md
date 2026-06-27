@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ashraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ashraf-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem-ashraf-dev)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeem.ashraf.dev@gmail.com)
 
@@ -106,7 +106,7 @@ AI Automation Engineer · RAG Developer · AI Engineer · Backend Developer · S
 ## 📫 Connect With Me
 
 📧 **Email:** [nadeem.ashraf.dev@gmail.com](mailto:nadeem.ashraf.dev@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/nadeem-ashraf](https://www.linkedin.com/in/nadeem-ashraf)
+💼 **LinkedIn:** [linkedin.com/in/nadeem-ashraf](https://www.linkedin.com/in/nadeem-ashraf-dev)
 🐙 **GitHub:** [github.com/nadeem-ashraf-dev](https://github.com/nadeem-ashraf-dev)
 
 <div align="center">
