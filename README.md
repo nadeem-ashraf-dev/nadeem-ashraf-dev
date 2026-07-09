@@ -93,24 +93,29 @@ I'm a Computer Science graduate specializing in **AI automation, Retrieval-Augme
 
 ## 📊 GitHub Stats
 
-<!-- Using alternative reliable stats services -->
+<!-- Fix for GitHub Stats - Using authenticated token approach -->
 <div align="center">
 
-<!-- GitHub Stats Card - Alternative service -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<!-- GitHub Stats Card with proper parameters -->
+<img src="https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&disable_animations=false&bg_color=0d1117&title_color=0077b6&icon_color=0077b6&text_color=ffffff" width="49%" alt="GitHub Stats"/>
 
-<!-- GitHub Streak Stats - Alternative service -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=0077b6&fire=0077b6&currStreakLabel=0077b6" width="49%" alt="GitHub Streak"/>
 
 <br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
+<!-- Top Languages with proper parameters -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8&hide=html,css" width="60%" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Activity Graph - Alternative reliable service -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem-ashraf-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077b6&line=0077b6&point=ffffff" width="95%" alt="GitHub Activity Graph"/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem-ashraf-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077b6&line=0077b6&point=ffffff&radius=4&area=true&area_color=0077b6" width="95%" alt="GitHub Activity Graph"/>
+
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
+<img src="https://github.com/nadeem-ashraf-dev/nadeem-ashraf-dev/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
