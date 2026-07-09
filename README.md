@@ -93,12 +93,24 @@ I'm a Computer Science graduate specializing in **AI automation, Retrieval-Augme
 
 ## 📊 GitHub Stats
 
+<!-- Using alternative reliable stats services -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true" width="49%"/>
+<!-- GitHub Stats Card - Alternative service -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+<!-- GitHub Streak Stats - Alternative service -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+
+<br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- Activity Graph - Alternative reliable service -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem-ashraf-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077b6&line=0077b6&point=ffffff" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
