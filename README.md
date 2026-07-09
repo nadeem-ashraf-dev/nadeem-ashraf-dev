@@ -93,29 +93,48 @@ I'm a Computer Science graduate specializing in **AI automation, Retrieval-Augme
 
 ## 📊 GitHub Stats
 
-<!-- Fix for GitHub Stats - Using authenticated token approach -->
+<!-- FIXED: GitHub Stats with proper working URLs -->
 <div align="center">
 
-<!-- GitHub Stats Card with proper parameters -->
-<img src="https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&disable_animations=false&bg_color=0d1117&title_color=0077b6&icon_color=0077b6&text_color=ffffff" width="49%" alt="GitHub Stats"/>
+<!-- Stats Card - Using vercel.app with proper parameters -->
+<img src="https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0077b6&icon_color=0077b6&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=0077b6&fire=0077b6&currStreakLabel=0077b6" width="49%" alt="GitHub Streak"/>
+<!-- Streak Stats - Using herokuapp with proper parameters -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=0077b6&fire=0077b6&currStreakLabel=0077b6&sideLabels=0077b6&dates=ffffff" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8&exclude_repo=freelancer-hub,task-management-app" width="60%" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- Contribution Graph - Fixed version -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem-ashraf-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=0077b6&line=0077b6&point=ffffff&radius=6&area=true&area_color=0077b6&custom_title=Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
+
+<br/><br/>
+
+<!-- Dynamic Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=nadeem-ashraf-dev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Stats (Fallback if above doesn't work)
+
+<div align="center">
+
+<!-- Method 1: Simple badges that always work -->
+![GitHub Followers](https://img.shields.io/github/followers/nadeem-ashraf-dev?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/nadeem-ashraf-dev?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
+![GitHub Repos](https://img.shields.io/badge/Repositories-12-blue?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
+![Last Commit](https://img.shields.io/github/last-commit/nadeem-ashraf-dev/nadeem-ashraf-dev?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
 
 <br/>
 
-<!-- Top Languages with proper parameters -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8&hide=html,css" width="60%" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem-ashraf-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077b6&line=0077b6&point=ffffff&radius=4&area=true&area_color=0077b6" width="95%" alt="GitHub Activity Graph"/>
-
-<br/><br/>
-
-<!-- Contribution Snake Animation -->
-<img src="https://github.com/nadeem-ashraf-dev/nadeem-ashraf-dev/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+<!-- Method 2: Alternative stats service -->
+[![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nadeem-ashraf-dev)
 
 </div>
 
