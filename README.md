@@ -52,10 +52,10 @@ I'm a Computer Science graduate specializing in **AI automation, Retrieval-Augme
 </div>
 
 **AI & Automation**
-`n8n` `AI Agents` `RAG Systems` `LangChain` `OpenAI APIs` `Prompt Engineering` `AI Chatbots` `Knowledge Base Systems` `Multi-Agent Workflows` `Automation Pipelines` `Workflow Orchestration`
+`n8n` `AI Agents` `RAG Systems` `LangChain` `OpenAI APIs` `Prompt Engineering` `AI Chatbots` `Knowledge Base Systems` `Multi-Agent Workflows`
 
 **Databases & Vector Stores**
-`PostgreSQL` `MySQL` `Firebase Firestore` `ChromaDB` `Pinecone` `MongoDB`
+`PostgreSQL` `MySQL` `Firebase Firestore` `ChromaDB` `Pinecone`
 
 ---
 
@@ -64,89 +64,29 @@ I'm a Computer Science graduate specializing in **AI automation, Retrieval-Augme
 | Project | Description | Key AI / Automation Feature | Efficiency Gained | Tech Stack |
 |---|---|---|---|---|
 | 🧠 **Freelancer Hub** *(FYP)* | Full-stack freelancing marketplace connecting clients & freelancers | AI-driven matching engine using embedding similarity search | **~40% faster** client-freelancer matching vs. manual browsing | Python, FastAPI, PostgreSQL, Firebase |
+| 💬 **[User Feedback Management System](https://github.com/nadeem-ashraf-dev/User-Feedback-Management-System)** | Automated pipeline for collecting, triaging & responding to customer feedback | AI-powered sentiment analysis with auto-routing to thank-you or escalation workflows | **~50% reduction** in manual feedback triage time | n8n, OpenAI API, Gmail API, PostgreSQL |
+| 📦 **[Inventory Management Automation System](https://github.com/nadeem-ashraf-dev/Inventory-Management-Automation-System)** | End-to-end automation for stock tracking, reordering & supplier alerts | AI-driven demand forecasting with automated low-stock reorder triggers | **~45% reduction** in stockouts & manual inventory checks | n8n, Python, PostgreSQL, REST APIs |
+| 📧 **[Automated Email Management System](https://github.com/nadeem-ashraf-dev/Automated-Email-Management-System)** | Smart inbox automation that classifies, prioritizes & drafts email responses | LLM-based email classification with context-aware auto-draft generation | **~60% faster** inbox processing vs. manual handling | n8n, LangChain, OpenAI API, Gmail API |
 | 🤖 **AI Life Assistant** | LLM-powered personal productivity assistant | Conversational task & reminder management with context-aware NLP | **~35% reduction** in time spent manually planning daily tasks | Python, OpenAI API, LangChain, Firebase |
 | ✅ **Task Management App** | Cross-platform productivity tracker | AI-assisted task categorization & smart deadline suggestions | **~25% improvement** in task completion turnaround | Flutter, Firebase, Firestore |
 | 📊 **BMI Calculator** | Health & fitness mobile app | AI-generated personalized health insights based on results | **~30% faster** health insight delivery vs. static calculators | Flutter, Dart |
 | 🎲 **LUDO Game** | Digital multiplayer board game | Adaptive AI opponent logic with dynamic difficulty scaling | **~20% increase** in player engagement time (AI opponent mode) | Dart, Flutter |
 | 🎵 **Xylophone App** | Mobile music/instrument app | Low-latency responsive sound engine | **~15% reduction** in audio playback latency vs. baseline build | Dart, Flutter |
-| 📝 **User Feedback Management System** | Centralized platform for collecting, analyzing, and acting on user feedback | AI-powered sentiment analysis & automated feedback categorization | **~50% faster** feedback processing & prioritization | Python, FastAPI, PostgreSQL, NLP (spaCy/VADER) |
-| 📦 **Inventory Management Automation System** | Intelligent inventory tracking with automated reorder alerts | ML-based demand forecasting & automated stock level monitoring | **~45% reduction** in stockouts and overstock situations | Python, FastAPI, PostgreSQL, Pandas, Scikit-learn |
-| ✉️ **Automated Email Management System** | Smart email triage and response automation with AI | LLM-powered email categorization, prioritization, and auto-response generation | **~60% reduction** in manual email processing time | Python, OpenAI API, IMAP/SMTP, LangChain, PostgreSQL |
 
 > 📌 *Efficiency metrics are illustrative estimates based on project testing and design goals — feel free to update with your own measured benchmarks once available.*
 
 ---
 
-## 🔄 Automation & Workflow Projects
-
-<div align="center">
-
-| Project | Automation Focus | Key Technologies | Business Impact |
-|---|---|---|---|
-| 📝 **User Feedback Management System** | Centralized feedback collection, analysis, and action tracking | NLP sentiment analysis, automated categorization, real-time dashboards | Faster response to user needs, data-driven product decisions |
-| 📦 **Inventory Management Automation System** | Stock tracking, demand forecasting, reorder automation | ML demand prediction, automated alerts, inventory optimization | Reduced carrying costs, improved supply chain efficiency |
-| ✉️ **Automated Email Management System** | Email triage, prioritization, and intelligent response | LLM-powered categorization, auto-response generation, workflow integration | Significant time savings, improved response times |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
-<!-- FIXED: GitHub Stats with proper working URLs -->
 <div align="center">
 
-<!-- Stats Card - Using vercel.app with proper parameters -->
-<img src="https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0077b6&icon_color=0077b6&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true" width="49%"/>
 
-<!-- Streak Stats - Using herokuapp with proper parameters -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=0077b6&fire=0077b6&currStreakLabel=0077b6&sideLabels=0077b6&dates=ffffff" width="48%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8&exclude_repo=freelancer-hub,task-management-app" width="60%" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Contribution Graph - Fixed version -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem-ashraf-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=0077b6&line=0077b6&point=ffffff&radius=6&area=true&area_color=0077b6&custom_title=Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
-
-<br/><br/>
-
-<!-- Dynamic Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=nadeem-ashraf-dev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
-
----
-
-## 📈 Contribution Stats (Fallback if above doesn't work)
-
-<div align="center">
-
-<!-- Method 1: Simple badges that always work -->
-![GitHub Followers](https://img.shields.io/github/followers/nadeem-ashraf-dev?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
-![GitHub Stars](https://img.shields.io/github/stars/nadeem-ashraf-dev?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
-![GitHub Repos](https://img.shields.io/badge/Repositories-12-blue?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
-![Last Commit](https://img.shields.io/github/last-commit/nadeem-ashraf-dev/nadeem-ashraf-dev?style=for-the-badge&logo=github&color=0077b6&labelColor=0d1117)
-
-<br/>
-
-<!-- Method 2: Alternative stats service -->
-[![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadeem-ashraf-dev&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nadeem-ashraf-dev)
-
-</div>
-
----
-
-## 🏆 Key Achievements
-
-- 🚀 Developed **3 automation systems** reducing manual effort by 45-60%
-- 🤖 Built **AI-powered feedback analysis** processing 1000+ feedback entries per day
-- 📦 Designed **inventory forecasting model** with 92% accuracy in demand prediction
-- ✉️ Created **intelligent email management** handling 500+ emails daily with 85% auto-categorization accuracy
-- 🎓 Computer Science Graduate with specialization in AI & Automation
 
 ---
 
@@ -157,8 +97,6 @@ I'm a Computer Science graduate specializing in **AI automation, Retrieval-Augme
 - Model Context Protocol (MCP)
 - Production-ready LLM application design
 - Agentic workflow automation at scale
-- n8n advanced workflow patterns
-- Vector database optimization for large-scale RAG
 
 ---
 
