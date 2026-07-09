@@ -104,7 +104,6 @@ Python • Dart • JavaScript
 
 <img src="https://streak-stats.demolab.com/?user=nadeem-ashraf-dev&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nadeem-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
